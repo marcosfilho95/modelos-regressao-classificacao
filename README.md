@@ -39,10 +39,10 @@ Este projeto, desenvolvido no âmbito da disciplina de *Inteligência Artificial
 
 - **Classes e Codificação:**
 
-Neutro: [ 1, -1, -1, -1, -1 ] 
-Sorriso: [-1, 1, -1, -1, -1 ] 
-Sobrancelhas Levantadas: [-1, -1, 1, -1, -1 ] 
-Surpreso: [-1, -1, -1, 1, -1 ] 
+Neutro: [ 1, -1, -1, -1, -1 ] <br>
+Sorriso: [-1, 1, -1, -1, -1 ] <br>
+Sobrancelhas Levantadas: [-1, -1, 1, -1, -1 ] <br>
+Surpreso: [-1, -1, -1, 1, -1 ] <br>
 Rabugento: [-1, -1, -1, -1, 1 ]
 
 
