@@ -1,0 +1,9 @@
+Modelo,Média,Desvio-Padrão,Maior Valor,Menor Valor
+MQO,0.5301,0.0057,0.5406,0.5206
+Gaussiano Tradicional,0.9699,0.0029,0.9734,0.964
+Gaussiano (Cov. de todo cj. treino),0.9623,0.0032,0.9666,0.9566
+Classificador Gaussiano (Cov. Agregada),0.9623,0.0032,0.9666,0.9566
+Classificador de Bayes Ingênuo (Naive Bayes Classifier),0.9688,0.0024,0.9718,0.9648
+Regularizado λ=0.25,0.9384,0.0055,0.948,0.9302
+Regularizado λ=0.5,0.9388,0.0058,0.9494,0.93
+Regularizado λ=0.75,0.9397,0.006,0.9508,0.9304
