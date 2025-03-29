@@ -39,10 +39,10 @@ Este projeto, desenvolvido no âmbito da disciplina de *Inteligência Artificial
 
 - **Classes e Codificação:**
 
-Neutro: [ 1, -1, -1, -1, -1 ] 
-Sorriso: [-1, 1, -1, -1, -1 ] 
-Sobrancelhas Levantadas: [-1, -1, 1, -1, -1 ] 
-Surpreso: [-1, -1, -1, 1, -1 ] 
+Neutro: [ 1, -1, -1, -1, -1 ] <br>
+Sorriso: [-1, 1, -1, -1, -1 ] <br>
+Sobrancelhas Levantadas: [-1, -1, 1, -1, -1 ] <br>
+Surpreso: [-1, -1, -1, 1, -1 ] <br>
 Rabugento: [-1, -1, -1, -1, 1 ]
 
 
@@ -53,7 +53,7 @@ Rabugento: [-1, -1, -1, -1, 1 ]
   - **CG Tradicional:** estima média e matriz de covariância para cada classe.
   - **CG com Cov. Igual (Global):** assume uma matriz de covariância comum a todas as classes.
   - **CG com Cov. Agregada:** utiliza a média das matrizes de covariância das classes.
-  - **CG Regularizado (Friedman):** aplica regularização (testada para λ = 0.25, 0.5, 0.75, 1) para mitigar overfitting.
+  - **CG Regularizado (Friedman):** aplica regularização (testada para λ = 0.25, 0.5, 0.75) para mitigar overfitting.
 
 - **Metodologia:**  
 Os dados foram organizados em uma matriz de características (X) e um vetor de rótulos (Y).  
